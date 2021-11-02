@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Siti
 
+Highly motivated Information System bachelor graduate and have passionate in data analysis, data science, big data, machine learning, and natural language processing. I have been in several training programs in scholarship academy and boot camp that focus on data science and big data fields.
 <!--
 **sitimarufatus/sitimarufatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
