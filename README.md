@@ -1,6 +1,15 @@
 ### Hi there 👋 I'm Siti
 
 Highly motivated Information System bachelor graduate and have passionate in data analysis, data science, big data, machine learning, and natural language processing. I have been in several training programs in scholarship academy and boot camp that focus on data science and big data fields.
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/sitimarufatus">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sitimarufatus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sitimarufatus&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **sitimarufatus/sitimarufatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
